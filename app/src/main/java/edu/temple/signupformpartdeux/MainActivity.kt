@@ -56,7 +56,7 @@ fun SignUpForm(name: String, modifier: Modifier = Modifier) {
         val context = LocalContext.current
 
         Text(
-            text = "Sign Up Form",
+            text = "Sign Up Form in Compose",
             modifier = modifier.padding(8.dp),
             fontSize = 28.sp
         )
